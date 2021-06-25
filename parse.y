@@ -1,5 +1,5 @@
 /*
-*Name:gramtree_v1.y
+*Name:parse.y
 *Function:bison语法分析，对每条规则 按照孩子兄弟表示法建立语法结点
 */
 %{

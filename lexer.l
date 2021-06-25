@@ -1,5 +1,5 @@
 /*
-*Name:gramtree.l
+*Name:lexer.l
 *Function:词法分析模块，对每个终结符建立一个叶子结点，返回记号，供bison语法分析使用
 */
 %{

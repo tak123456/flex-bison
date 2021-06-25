@@ -1,5 +1,5 @@
 /*
-*Name:gramtree.c
+*Name:display.c
 *Function:实现变长参数构造树&遍历树函数&错误处理函数，yyparse()启动文法分析
 */
 # include<stdio.h>
